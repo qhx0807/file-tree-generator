@@ -1,8 +1,10 @@
 {
-  "name": "filetree",
+  "name": "file-tree-generator",
   "version": "1.0.0",
   "description": "file directory structure generator",
   "main": "index.js",
+  "private": false,
+  "keyword": "file, tree, file directory",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
