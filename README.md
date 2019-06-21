@@ -6,7 +6,7 @@
 
 ```bash
 
-$ npm install filetree -g
+$ npm install file-tree-generator -g
 ```
 
 ## Usage
