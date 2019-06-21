@@ -1,0 +1,14 @@
+{
+  "name": "filetree",
+  "version": "1.0.0",
+  "description": "file directory structure generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "filetree": "index.js"
+  },
+  "author": "qhx0807",
+  "license": "ISC"
+}
